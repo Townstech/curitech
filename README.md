@@ -1,0 +1,2 @@
+# curitech
+a  curious mind
